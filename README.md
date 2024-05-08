@@ -1,4 +1,4 @@
-<img src="https://iili.io/J1K57Cg.png" alt="Presentation Image">
+<img src="https://i.ibb.co/DrSt5JG/Portada-2.png" alt="Presentation Image">
 
 My name is Matías Dupraz, I am Frontend Developer willing to continuously learn and improve my skills.
 
